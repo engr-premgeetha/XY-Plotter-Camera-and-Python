@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/premgeetha/example-standalone-inferencing-linux/opencv/opencv/modules/gapi/samples/api_example.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_gapi",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Main",
+			"opencv_gapi",
+			"Sample"
+		],
+		"name" : "example_gapi_api_example"
+	}
+}
